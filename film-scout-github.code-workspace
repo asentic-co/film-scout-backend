@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "film-scout-frontend",
+			"path": "../film-scout-frontend"
+		},
+		{
+			"name": "film-scout-backend",
+			"path": "."
+		},
+		{
+			"name": "film-scout-shared",
+			"path": "../film-scout-shared"
+		},
+		{
+			"name": "film-scout-docker",
+			"path": "../film-scout-docker"
+		},
+		{
+			"path": "../film-scout-data"
+		}
+	],
+	"settings": {}
+}

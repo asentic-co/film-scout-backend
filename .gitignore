@@ -1,0 +1,59 @@
+# Ignore environment variable files
+.env
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Ignore node modules (if using Node.js)
+node_modules/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Ignore test output
+test-output/
+junit-*.xml
+
+# Ignore editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+.eggs/
